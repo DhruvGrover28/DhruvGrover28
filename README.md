@@ -1,8 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Dhruv+Grover!" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" />
 </h1>
-
-<hr style="border-top: 3px dashed #bbb;">
 
 ## 💫 About Me
 🎓 B.Tech IIoT @ USAR, GGSIPU (2023–2027)  

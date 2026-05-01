@@ -10,10 +10,11 @@
 
 ## About Me
 
-Engineering student focused on building complete, real-world systems combining backend engineering, AI, and automation.  
-I don’t just build projects, I build pipelines, workflows, and deployable products.
+Engineering student focused on building real-world systems that combine backend engineering, AI, and automation.
 
-Currently working on strengthening problem-solving through DSA while continuing to develop scalable applications.
+Work centered on developing end-to-end systems that move from data to deployment, with emphasis on scalability and practical use.
+
+Currently strengthening problem-solving through DSA while continuing to build production-oriented applications.
 
 ---
 
@@ -67,30 +68,30 @@ Currently working on strengthening problem-solving through DSA while continuing 
 
 ## Featured Work
 
-### SolarScope AI — Rooftop Solar Analysis Platform
-Built and deployed a complete system to estimate rooftop area, solar potential, and ROI using satellite imagery.
+### SolarScope AI — Rooftop Solar Analysis Platform  
+Built and deployed a system to estimate rooftop area, solar potential, and ROI using satellite imagery.
 
-Implemented a detector-first pipeline using RT-DETR with high-confidence predictions.  
-Converted pixel-level detections into real-world measurements using geospatial scaling.
+Designed a detector-first pipeline using RT-DETR with high-confidence predictions.  
+Converted pixel detections into real-world measurements using geospatial scaling.
 
 Tech: Python, FastAPI, OpenCV, RT-DETR, Leaflet.js, Docker  
 
 ---
 
-### SkillNavigator — AI Job Automation System
-Designed a multi-agent system that automates job discovery, ranking, and application workflows.
+### SkillNavigator — AI Job Automation System  
+Developed a multi-agent system to automate job discovery, ranking, and application workflows.
 
-Processes 60–80 job listings per cycle and ranks them using semantic similarity.  
-Uses a structured pipeline with coordinated agents and shared database state.
+Processes 60–80 listings per cycle and ranks them using semantic similarity.  
+Implements a structured pipeline with coordinated agents and shared database state.
 
 Tech: Python, FastAPI, OpenAI, Playwright, React  
 
 ---
 
-### Hackathon Updates Bot — Telegram Automation
-Built an automated system that aggregates hackathons and delivers updates to users in real time.
+### Hackathon Updates Bot — Telegram Automation  
+Created an automated pipeline to aggregate hackathons and deliver real-time updates.
 
-Handles dynamic scraping, deduplication, and scheduled execution cycles.
+Handles dynamic scraping, deduplication, and scheduled execution.
 
 Tech: Python, Selenium, BeautifulSoup, SQLite  
 
@@ -99,10 +100,10 @@ Tech: Python, Selenium, BeautifulSoup, SQLite
 ## Experience
 
 IBM SkillsBuild — Data Analytics Intern  
-Worked with large datasets, built churn prediction models, and created KPI dashboards.
+Analyzed large datasets, built churn prediction models, and developed KPI dashboards.
 
 AWS Cloud Club — Software Development Team  
-Improved engagement through frontend development and conducted technical interviews.
+Improved website engagement and conducted technical interviews.
 
 ---
 
@@ -110,16 +111,17 @@ Improved engagement through frontend development and conducted technical intervi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DhruvGrover28&theme=algolia&margin-w=10&row=2&column=3" />
+<img src="https://github-profile-trophy.vercel.app/?username=DhruvGrover28&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=3" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhruvGrover28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DhruvGrover28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGrover28&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=DhruvGrover28&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=DhruvGrover28&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 

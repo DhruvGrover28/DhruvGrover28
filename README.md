@@ -1,50 +1,132 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Dhruv+Grover!" alt="Typing SVG" />
-  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dhruv+Grover;Full+Stack+Developer+%7C+AI+Systems+Builder;Building+Real-World+Scalable+Solutions" />
 </h1>
 
-## 💫 About Me
-🎓 B.Tech IIoT @ USAR, GGSIPU (2023–2027)  
-💻 Passionate about Full Stack Development and writing clean, efficient code  
-🛠️ Working on: Full Stack Web Projects  
-🤝 Looking to collaborate on: Web Development & Open Source Projects  
-🌱 Currently learning: DSA and modern React frameworks  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="120"/>
+</div>
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-grover28)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grover.dhruv28@gmail.com)
+## About Me
+
+Engineering student focused on building complete, real-world systems combining backend engineering, AI, and automation.  
+I don’t just build projects, I build pipelines, workflows, and deployable products.
+
+Currently working on strengthening problem-solving through DSA while continuing to develop scalable applications.
 
 ---
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/dhruv-grover28">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Grover-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:grover.dhruv28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=DhruvGrover28&theme=algolia&margin-w=10&row=2&column=3)
+## Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=DhruvGrover28&theme=dark&hide_border=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=DhruvGrover28&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGrover28&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/RT--DETR-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=DhruvGrover28&label=Profile%20views&color=6A5ACD&style=flat)
+## Featured Work
 
+### SolarScope AI — Rooftop Solar Analysis Platform
+Built and deployed a complete system to estimate rooftop area, solar potential, and ROI using satellite imagery.
+
+Implemented a detector-first pipeline using RT-DETR with high-confidence predictions.  
+Converted pixel-level detections into real-world measurements using geospatial scaling.
+
+Tech: Python, FastAPI, OpenCV, RT-DETR, Leaflet.js, Docker  
+
+---
+
+### SkillNavigator — AI Job Automation System
+Designed a multi-agent system that automates job discovery, ranking, and application workflows.
+
+Processes 60–80 job listings per cycle and ranks them using semantic similarity.  
+Uses a structured pipeline with coordinated agents and shared database state.
+
+Tech: Python, FastAPI, OpenAI, Playwright, React  
+
+---
+
+### Hackathon Updates Bot — Telegram Automation
+Built an automated system that aggregates hackathons and delivers updates to users in real time.
+
+Handles dynamic scraping, deduplication, and scheduled execution cycles.
+
+Tech: Python, Selenium, BeautifulSoup, SQLite  
+
+---
+
+## Experience
+
+IBM SkillsBuild — Data Analytics Intern  
+Worked with large datasets, built churn prediction models, and created KPI dashboards.
+
+AWS Cloud Club — Software Development Team  
+Improved engagement through frontend development and conducted technical interviews.
+
+---
+
+## GitHub Performance
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DhruvGrover28&theme=algolia&margin-w=10&row=2&column=3" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DhruvGrover28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGrover28&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=DhruvGrover28&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+## Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DhruvGrover28&label=Profile%20Views&color=6A5ACD&style=flat" />
+</div>
